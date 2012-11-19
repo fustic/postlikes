@@ -1,0 +1,24 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.container > input{display: block;}
+.posts{float:left;width: 45%;height: 100%;overflow-x: hidden;position: relative;max-height: 1000px;overflow-y: auto;margin-bottom: 20px}
+.posts .post{height: auto;position: relative;width: 100%;display: inline-block;border-bottom: 2px dashed;margin-bottom: 10px;margin-top: 10px; cursor: pointer;}
+.posts .post.deleted{transparent:50%}
+.posts .post img{float: left; width: 130px; height: 130px; margin: 0 10px 10px 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
